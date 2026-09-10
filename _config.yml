@@ -1,0 +1,8 @@
+title: "St Botolph's, Barwick"
+description: "Parish Eucharist at 10, Choral Evensong at 6, and a church open every day from nine until dusk. Service times, the church year, weddings, baptisms and funerals."
+
+# The template's own assets are copied through untouched.
+include: ['church.config.json']
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor']
+sass:
+  style: compressed
