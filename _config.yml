@@ -3,6 +3,6 @@ description: "Parish Eucharist at 10, Choral Evensong at 6, and a church open ev
 
 # The template's own assets are copied through untouched.
 include: ['church.config.json']
-exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor']
+exclude: ['README.md', 'LICENSE', 'Gemfile', 'Gemfile.lock', 'vendor', 'images']
 sass:
   style: compressed
